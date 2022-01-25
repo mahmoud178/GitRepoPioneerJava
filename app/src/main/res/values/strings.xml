@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PioneersTaskJava</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="given_date">Given Date : </string>
+    <string name="items_count_to_be_viewed">Top Repositories Count : </string>
+    <string name="programming_language">Programming Language : </string>
+    <string name="apply">apply</string>
+</resources>
